@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/anamenu.unity
+    guid: c1a176746de84484db6d6ee46e30093b
+  - enabled: 1
+    path: Assets/Scenes/anamenuplayer.unity
+    guid: c91cacd9c895f554b962c6eca6116f60
+  - enabled: 1
+    path: Assets/Scenes/Bomberman 2.unity
+    guid: 190e573bedf286441b5a1f12c3abd011
+  - enabled: 1
+    path: Assets/Scenes/Bomberman 3.unity
+    guid: e4a6520ae20bf014aa3c9743b5159610
+  - enabled: 1
+    path: Assets/Scenes/Bomberman 4.unity
+    guid: 5bee772ca8058ce4abf60636b0fe9761
+  m_configObjects: {}
